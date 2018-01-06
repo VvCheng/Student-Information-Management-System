@@ -11,7 +11,7 @@ import org.hibernate.service.ServiceRegistryBuilder;
 import java.util.Map;
 
 /**
- * Created by Vinci on 2016/11/25.
+ * Created by Vinci on 2017/12/25.
  */
 public class Main {
     private static final SessionFactory ourSessionFactory;
